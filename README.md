@@ -2,4 +2,4 @@
 Boids algorithm demonstration.
 
 
-You can see the demo [here](https://komi-alasse.github.io/blobs.html).
+You can see the demo [here](https://komi-alasse.github.io/boids).
